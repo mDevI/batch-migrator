@@ -11,41 +11,41 @@ CREATE TABLE PEOPLE (
 insert into people (first_name, last_name, salary)
 values ('John', 'Doe', 2000);
 insert into people (first_name, last_name, salary)
-values ('John', 'Doe', 3000);
+values ('Jim', 'Doe', 3000);
 insert into people (first_name, last_name, salary)
-values ('John', 'Doe', 3000);
+values ('Jane', 'Doe', 3000);
 insert into people (first_name, last_name, salary)
-values ('John', 'Doe', 3000);
+values ('Isaac', 'Newton', 3000);
 insert into people (first_name, last_name, salary)
-values ('John', 'Doe', 3000);
+values ('Eric', 'Clapton', 3000);
 insert into people (first_name, last_name, salary)
-values ('John', 'Doe', 3000);
+values ('John', 'Read', 3000);
 insert into people (first_name, last_name, salary)
-values ('John', 'Doe', 3000);
+values ('Ann', 'Gail', 3000);
 insert into people (first_name, last_name, salary)
-values ('John', 'Doe', 3000);
+values ('Beth', 'Mill', 3000);
 insert into people (first_name, last_name, salary)
-values ('John', 'Doe', 3000);
+values ('Antony', 'Hicks', 3000);
 insert into people (first_name, last_name, salary)
-values ('John', 'Doe', 3000);
+values ('Amanda', 'Star', 3000);
 insert into people (first_name, last_name, salary)
-values ('John', 'Doe', 3000);
+values ('Vick', 'Nilson', 3000);
 insert into people (first_name, last_name, salary)
-values ('John', 'Doe', 3000);
+values ('Abbie', 'McRoy', 3000);
 insert into people (first_name, last_name, salary)
-values ('John', 'Doe', 3000);
+values ('Henry', 'Stew', 3000);
 insert into people (first_name, last_name, salary)
-values ('John', 'Doe', 3000);
+values ('Mary', 'Wilson', 3000);
 insert into people (first_name, last_name, salary)
-values ('John', 'Doe', 3000);
+values ('Harley', 'Shin', 3000);
 insert into people (first_name, last_name, salary)
-values ('John', 'Doe', 3000);
+values ('Danial', 'Morrow', 3000);
 insert into people (first_name, last_name, salary)
-values ('John', 'Doe', 3000);
+values ('Zak', 'Elk', 3000);
 insert into people (first_name, last_name, salary)
-values ('John', 'Doe', 3000);
+values ('Peter', 'Norman', 3000);
 insert into people (first_name, last_name, salary)
-values ('John', 'Doe', 3000);
+values ('Martin', 'Groo', 3000);
 insert into people (first_name, last_name, salary)
-values ('John', 'Doe', 3000);
+values ('Garry', 'Potter', 3000);
 

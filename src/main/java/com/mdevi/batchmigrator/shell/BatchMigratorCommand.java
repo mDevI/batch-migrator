@@ -27,9 +27,7 @@ public class BatchMigratorCommand {
     @ShellMethod(value = "Migrate to sql from mongo.", key = "sql2mongo", group = "Migration")
     public void runMigration() throws JobParametersInvalidException, JobExecutionAlreadyRunningException, JobRestartException, JobInstanceAlreadyCompleteException {
         jobLauncher.run(importUserJob, new JobParameters());
-        System.out.println("Migration complete!");
     }
-
 
     @ShellMethod(value = "Show all records number in H2 database", key = "showRecords", group = "Migration")
     public void showDbRecordsCount() {
